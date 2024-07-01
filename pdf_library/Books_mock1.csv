@@ -1,0 +1,51 @@
+book_id,pdf,title,author,genre,publication_date,price,publisher,isbn,page_count,language
+1,,Honorable,Chane McCafferty,Non-Fiction,12/17/1943,32.72,Yacero,355484461-6,432,Danish
+2,,Rev,Loy Plampin,Mystery,6/18/1938,11.33,Skynoodle,624125719-6,450,Lao
+3,,Mrs,Shandy Springer,Non-Fiction,1/27/1909,5.27,Dynabox,247820940-3,752,Macedonian
+4,,Rev,Matteo Yaknov,Science Fiction,10/27/1997,65.71,DabZ,070500684-0,27,Guaraní
+5,,Mrs,Rakel Eskrigge,Romance,6/29/2016,82.55,Skynoodle,045126707-9,147,Lao
+6,,Dr,Marge Haberfield,Science Fiction,7/26/1922,61.23,Jaxspan,174259817-X,306,Swahili
+7,,Dr,Raynard Fabler,Science Fiction,7/7/1909,64.19,Fliptune,543055792-7,157,Malayalam
+8,,Dr,Yetty Rickman,Non-Fiction,12/6/1900,4.61,Jaxbean,935188588-7,1497,Dari
+9,,Mrs,Mic Spinage,Fiction,9/2/1988,86.11,Tagchat,007262178-8,1146,Swedish
+10,,Ms,Lionel Charles,Science Fiction,9/26/2009,29.13,JumpXS,377722132-5,1208,Estonian
+11,,Honorable,Antony Sleit,Science Fiction,3/21/1993,75.55,Gevee,637927972-5,1031,Gujarati
+12,,Dr,Galvan Allinson,Mystery,2/19/1922,54.63,Skyba,021696299-4,1157,Croatian
+13,,Honorable,Boycie MacIntyre,Romance,11/1/1957,51.84,Voolia,753376701-2,388,Papiamento
+14,,Dr,Steffane McKeeman,Mystery,9/18/1924,94.27,BlogXS,985201991-0,322,Indonesian
+15,,Mrs,Cathleen Conwell,Romance,1/19/1939,70.31,Thoughtworks,521977676-2,89,Hiri Motu
+16,,Mr,Regine Rowden,Science Fiction,10/27/1916,21.17,Youopia,836863195-5,712,Hiri Motu
+17,,Mr,Sibyl Cheeke,Non-Fiction,8/12/1923,81.1,Yodo,358942198-3,456,Fijian
+18,,Honorable,Cicily Sainz,Romance,11/3/1922,8.54,Devbug,783577421-6,1446,Oriya
+19,,Mrs,Nancee Janauschek,Non-Fiction,9/3/1982,19.02,Brainlounge,652730523-0,471,Kannada
+20,,Rev,Chryste Byfford,Science Fiction,1/19/1979,50.03,Avamba,413709198-6,795,Persian
+21,,Honorable,Benita Beccera,Non-Fiction,12/15/1908,31.25,Browsedrive,616606103-X,1278,Swati
+22,,Mrs,Gabriela Bourhill,Science Fiction,9/16/1920,38.16,Photobug,120603127-1,1422,Dhivehi
+23,,Rev,Parker Rosenvasser,Non-Fiction,7/2/1942,72.08,Fadeo,944093514-6,839,Moldovan
+24,,Mr,Gwyneth Uzzell,Non-Fiction,4/2/1969,82.3,Ooba,463559766-0,494,Latvian
+25,,Mrs,Enrique Jex,Romance,9/15/1957,84.68,Tagpad,299461500-2,883,Pashto
+26,,Rev,Tirrell De Caroli,Science Fiction,7/17/1966,19.55,Roombo,189132377-6,85,English
+27,,Mrs,Quinn MacGille,Fiction,5/27/1918,91.53,Tagcat,308694710-1,662,Dzongkha
+28,,Ms,Bendite Habberjam,Non-Fiction,4/25/1951,29.4,Plambee,090266448-4,855,Latvian
+29,,Mrs,Tome Chilver,Romance,7/8/1947,11.47,Fadeo,190115219-7,1484,Ndebele
+30,,Mr,Bethany Montez,Science Fiction,3/8/1967,26.13,Realbridge,018042972-8,1375,Kazakh
+31,,Dr,Eugenio Suthworth,Mystery,6/22/1916,78.64,Yakidoo,659805256-4,731,Dutch
+32,,Dr,Cyril Saterthwait,Non-Fiction,1/2/1965,60.09,Reallinks,704807401-9,1244,Burmese
+33,,Ms,Bevan Lowin,Non-Fiction,11/27/2010,55.06,Rhyzio,446628276-5,669,Māori
+34,,Mr,Pauli Longland,Science Fiction,1/5/2006,34.47,Shuffledrive,347631992-X,231,West Frisian
+35,,Ms,Paige Silson,Romance,10/28/1997,66.58,Tagopia,959361868-6,249,Somali
+36,,Mr,Caitlin Jarred,Science Fiction,1/9/1906,50.94,Wikizz,273927815-2,807,Tok Pisin
+37,,Mr,Gan Sivyour,Romance,9/29/1974,7.0,Linklinks,420277273-3,217,Malagasy
+38,,Mrs,Adlai Pescod,Romance,8/7/1962,99.75,Fadeo,905651140-8,1054,Romanian
+39,,Rev,Lyn Revett,Non-Fiction,4/16/1952,32.23,Centizu,899240887-0,725,Tok Pisin
+40,,Dr,Mira Brighty,Romance,10/10/2015,87.14,Kwideo,937237431-8,984,Maltese
+41,,Mr,Val Crewdson,Mystery,11/26/1953,8.78,Latz,094328707-3,1191,Swati
+42,,Ms,Dick Oosthout de Vree,Science Fiction,1/31/1928,93.67,Trilith,857799976-9,780,Moldovan
+43,,Dr,Spike Woodyeare,Fiction,1/14/2013,93.64,Avaveo,726478035-X,1081,Irish Gaelic
+44,,Dr,Darline Denisard,Romance,4/1/2010,43.2,Shufflebeat,989783606-3,1433,Zulu
+45,,Mrs,Bondon Jobke,Science Fiction,6/27/2010,91.41,Mycat,130342946-2,1454,Hebrew
+46,,Honorable,Kanya de Marco,Mystery,4/22/1957,64.98,Photojam,415915596-0,1102,Telugu
+47,,Honorable,Nils Pauling,Non-Fiction,12/27/1998,15.59,Devcast,790191941-8,32,Moldovan
+48,,Honorable,Malachi Lippitt,Fiction,11/1/1947,79.27,Feedbug,305934938-X,1374,Malay
+49,,Rev,Kenyon Lytell,Romance,8/19/1952,68.28,Thoughtbeat,675792789-6,1291,Latvian
+50,,Rev,Hi Quinell,Romance,4/27/1957,62.68,Livetube,704538186-7,1012,French

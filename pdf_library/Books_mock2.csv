@@ -1,0 +1,51 @@
+book_id,pdf,title,author,genre,publication_date,price,publisher,isbn,page_count,language
+1,,Mr,Hogan Sommerton,Romance,12/2/1974,47.9,Jayo,708702376-4,771,Latvian
+2,,Rev,Lynnett Dakhno,Romance,8/7/2011,61.26,Skyba,058827312-0,1221,Burmese
+3,,Ms,Vladimir Shrimpton,Fiction,12/7/1963,6.71,Skyble,529800398-2,733,Tok Pisin
+4,,Mr,Cammi Sawdy,Romance,12/23/1905,98.18,Jabberbean,341952848-5,738,Sotho
+5,,Dr,Flin O'Cannavan,Mystery,1/24/1914,44.24,Yozio,143439056-X,935,Tsonga
+6,,Mrs,Glenn Ashpole,Science Fiction,11/7/1903,32.3,Zava,224793917-1,803,Northern Sotho
+7,,Mrs,Rivy Naisey,Romance,3/25/1953,73.82,Yakijo,689418484-4,1492,Northern Sotho
+8,,Ms,Fawnia Luckman,Non-Fiction,7/21/2006,64.36,Photospace,937540773-X,614,Romanian
+9,,Mr,Legra Olenchikov,Romance,6/28/1990,80.87,Dabtype,266733506-6,270,Somali
+10,,Ms,Chase Fulep,Romance,4/21/1920,6.13,Quire,620950174-5,826,Montenegrin
+11,,Rev,Melisa Kadd,Non-Fiction,2/9/1970,60.8,Roodel,139381088-8,1440,New Zealand Sign Language
+12,,Rev,Horton Monroe,Romance,6/8/1934,59.6,Centidel,365358068-4,417,Oriya
+13,,Rev,Jenna Zmitruk,Non-Fiction,11/7/2006,59.53,Innojam,058144548-1,521,Spanish
+14,,Honorable,Maurene Saiger,Non-Fiction,11/12/1934,73.91,Yabox,099888250-X,1006,Assamese
+15,,Rev,Dulcea Booi,Fiction,8/9/1941,71.22,Flashset,153562762-X,1154,Telugu
+16,,Mrs,William Horsfield,Mystery,3/2/1905,85.87,Zoombeat,396298047-4,1196,Dzongkha
+17,,Rev,Will Teulier,Science Fiction,6/18/1980,56.57,Blognation,495827284-4,411,Dzongkha
+18,,Mr,Emalee Antoniottii,Fiction,6/30/2015,96.23,Meevee,900645370-6,414,Hiri Motu
+19,,Dr,Noe Arney,Romance,6/24/1945,72.07,Linkbuzz,041629975-X,817,New Zealand Sign Language
+20,,Mrs,Maurise Bullocke,Fiction,7/6/1990,97.71,Devshare,614764950-7,1430,Polish
+21,,Dr,Queenie Hulkes,Fiction,3/30/1944,56.6,Pixoboo,411863450-3,3,French
+22,,Rev,Efrem Cecere,Science Fiction,10/1/2017,1.69,Rhynyx,382359123-1,253,Nepali
+23,,Rev,Alick Witard,Mystery,5/7/2003,42.53,Brightbean,398107731-8,310,Telugu
+24,,Rev,Farr Zoren,Non-Fiction,9/17/1958,88.75,Eimbee,385568100-7,1287,Arabic
+25,,Mrs,Glynn Edling,Mystery,8/7/1972,57.9,Linklinks,953307116-8,969,Haitian Creole
+26,,Mrs,Cornie Quinion,Science Fiction,12/5/1924,62.7,Tagopia,728897109-0,644,Tetum
+27,,Mr,Moses Broadstock,Science Fiction,6/25/1932,43.98,Kare,029100395-8,1139,Afrikaans
+28,,Mrs,Jeniece Grunder,Romance,7/2/2018,60.43,Zoozzy,098119507-5,1353,Kazakh
+29,,Mrs,Nanine Sapey,Fiction,7/14/1949,6.75,Oba,394977996-5,50,Swati
+30,,Ms,Armand Najara,Romance,11/24/2011,86.18,Thoughtbeat,329577347-5,690,Lithuanian
+31,,Ms,Jami Dudin,Science Fiction,7/29/1991,73.94,Quimba,303046409-1,182,Finnish
+32,,Ms,Delmar Carrell,Mystery,8/2/1956,86.43,Realbuzz,395603171-7,1418,Georgian
+33,,Rev,Dedie Allonby,Mystery,3/25/1910,61.04,Youspan,202359521-5,919,Tswana
+34,,Dr,Odelle McCrone,Science Fiction,3/16/1976,4.82,Edgewire,358824645-2,1414,New Zealand Sign Language
+35,,Mrs,Rickert Tyne,Non-Fiction,9/7/2000,45.99,Meedoo,079785701-X,767,Moldovan
+36,,Rev,Tally Brozek,Fiction,1/23/1942,1.78,Janyx,802028750-7,279,Portuguese
+37,,Rev,Lilyan Georgiev,Mystery,4/22/2002,48.52,Aibox,660228001-5,862,Armenian
+38,,Mr,Uri Gegg,Science Fiction,9/27/2015,83.42,Jazzy,838580111-1,8,West Frisian
+39,,Dr,Sallie Heffer,Fiction,3/25/2012,81.62,Wikivu,961367843-3,316,Danish
+40,,Mrs,Cinderella Gadsdon,Fiction,5/12/2004,14.75,Photojam,086620859-3,274,Croatian
+41,,Honorable,Frasier Warret,Non-Fiction,9/19/2017,25.97,Vipe,957884875-7,182,Oriya
+42,,Rev,Brewer Blanchet,Fiction,3/29/1908,21.24,Wordify,460324389-8,1071,Hungarian
+43,,Mr,Brandais Leslie,Non-Fiction,3/26/1961,36.36,Kare,310274858-9,826,Persian
+44,,Ms,Marjie Muirhead,Non-Fiction,9/29/2005,9.85,Kwideo,263968850-2,1001,Maltese
+45,,Rev,Vassili Pottell,Fiction,11/3/1950,76.09,Dabtype,311549064-X,1469,Pashto
+46,,Dr,Elle Cuffley,Fiction,1/13/1941,63.72,Zooxo,149623265-8,89,Persian
+47,,Mr,Fidel Ravenhill,Science Fiction,11/7/1944,92.55,Gabtype,733403986-6,1274,Italian
+48,,Mrs,Penrod Commins,Fiction,11/6/1922,64.37,Blogtag,680679891-8,155,Hebrew
+49,,Ms,Aurel Unwins,Fiction,7/3/1977,28.73,Leexo,028492089-4,746,Tok Pisin
+50,,Mr,Bendick Quaif,Fiction,1/23/1964,71.43,Quimba,014630217-6,1464,Swati
